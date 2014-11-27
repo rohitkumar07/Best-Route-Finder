@@ -1,0 +1,5 @@
+1. Import the project (best-route-finder) in eclipse-luna or eclipse-helios
+
+2. Add all the jars given in the folder JARS
+
+3. guest.jsp is our homepage. On this file in eclipse, click run on server, start the server and the application can be seen on the browser.
